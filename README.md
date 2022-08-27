@@ -19,7 +19,8 @@ We have provided you with a project template that takes care of all the imports 
 
 Here is example of the data
 
- https://github.com/ThiagoPositeli/project-udacity-cassandra/blob/main/Captura%20de%20Tela%202022-08-27%20%C3%A0s%2012.35.19.png
+<img width="1140" alt="Captura de Tela 2022-08-27 às 12 35 19" src="https://user-images.githubusercontent.com/92527247/187037497-a2765218-9917-4c0f-866a-70e58e45867f.png">
+
 
 
 <h3>ETL pipeline</h3>
